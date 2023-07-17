@@ -1,0 +1,12 @@
+customtkinter==5.1.2
+matplotlib==3.7.1
+numpy
+pandas
+parse==1.19.0
+Pillow
+psutil==5.9.1
+PyAudio==0.2.13
+pysrt==1.1.2
+Requests==2.29.0
+simpleaudio==1.0.4
+bs4

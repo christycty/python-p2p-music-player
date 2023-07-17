@@ -1,0 +1,5 @@
+theme_name,mode,window_colour,frame_colour,text_colour,text_hidden_colour,border_colour,control_hover,control_normal,entry_colour
+dark,dark,gray10,gray13,gray84,gray13,#1f538d,#1f538d,#14375e,#343638
+cat,light,#d594d6,#d594d6,#FFFFFF,#987554,#8e3fe8,#8e3fe8,#8f57cf,#8f57cf
+light,light,gray95,gray90,gray14,gray90,#6d83b5,#a7b7db,#879bc7,#F9F9FA
+its_4am,dark,#FFFFFF,#FFFFFF,#000000,#FFFFFF,#666666,#666666,#cccccc,#eeeeee
