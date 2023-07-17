@@ -1,9 +1,9 @@
-A P2P music player that supports music control, file management and P2P music streaming from other computers
+A P2P music player that supports music control, file management and P2P music streaming from other computers. It is a school project with the parsing and streaming of wav chunk data, and the P2P connection requests implemented in the code. 
 
 # Setup and Execution
 ## Installation
 1. clone the repository
-2. create a "songs" folder in the root directory
+2. create a ```songs``` folder in the root directory
 3. install required libraries from ```pip install -r requirements.txt```
 
 ## Import Music
