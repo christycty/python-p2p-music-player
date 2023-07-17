@@ -1,4 +1,4 @@
-A P2P music player that supports music control, file management and P2P music streaming from other computers. It is a school project with the parsing and streaming of wav chunk data, and the P2P connection requests implemented in the code. 
+A P2P music player that supports music control, file management and P2P music streaming from other computers. It is a school group project which requires us to manually handle the parsing and streaming of wav chunk data, as well as the P2P connection and interleaved data streaming. 
 
 <img src="sample_ui.png" alt="Sample of the UI" style="max-width:300px;"/>
 
